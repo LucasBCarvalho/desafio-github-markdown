@@ -15,8 +15,9 @@
 
 ## 📌 **Sobre Mim**
 - 🎓 **Formado em Ciências da Computação** pela Universidade Jorge Amado (UNIJORGE).  
-- 🎓 **Finalista (TOP 300 entre 80 mil)** no **Bootcamp Santander + Ada Tech**.
 - 💻 Experiência com Desenvolvimento Web utilizando PHP e MySQL, além de modelagem e gestão de Banco de Dados, com foco em soluções escaláveis e manutenção de sistemas. 
+- 🎓 **Finalista (TOP 300 entre 80 mil)** no **Bootcamp Santander + Ada Tech**.
+- 🌟 Embaixador DIO Campus Expert, atuando na disseminação de conhecimento e incentivo à comunidade de tecnologia.
 - 🚀 Buscando sempre evoluir em **Arquitetura de Software, DevOps e Inteligência Artificial**.
 - 📫 Você pode me contatar pelo email <a href="mailto:lucas.carvalho30111@gmail.com">lucas.carvalho30111@gmail.com</a>.
 
